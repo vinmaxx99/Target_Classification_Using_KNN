@@ -12,7 +12,7 @@ Each row represents Customer details along with whether he/she clicked or not
 The Dataset is classified using K-Nearest Neighbour Classification Algorithm. This Algorithm decides the label of a test point based on its near neighbours.
 
 # Result
-![Image Result](https://drive.google.com/open?id=1ogm_bnrmg23vs0hrV5jOfwxZmuypNluW)
+![Image Result](Scatterplot_result.jpeg)
 
 The Following conclusion can be drawn
 1. Young People with low salary are least interested in the product.
